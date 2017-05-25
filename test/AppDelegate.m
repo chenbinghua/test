@@ -1,7 +1,7 @@
 //
 //  AppDelegate.m
 //  test
-//
+//  chenbinghua
 //  Created by macbook on 2017/5/22.
 //  Copyright © 2017年 macbook. All rights reserved.
 //
